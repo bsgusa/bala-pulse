@@ -1,0 +1,70 @@
+{
+  "generatedFrom": "bala-pulse ROADMAP.md signal-to-repo mapping",
+  "note": "Repositories bala-pulse feeds scored trending signals into. Owned by Balamonis LLC unless noted.",
+  "entity": "balamonis-llc",
+  "repositories": [
+    {
+      "repo": "bsgusa/bala-pulse",
+      "localPath": "~/bala-pulse",
+      "branch": "main",
+      "entity": "balamonis-llc",
+      "role": "Trending intelligence — scans signals, scores them, writes weekly brief"
+    },
+    {
+      "repo": "bsgusa/bala-nexus",
+      "localPath": "~/bala-nexus",
+      "branch": "main",
+      "entity": "balamonis-llc",
+      "role": "Hub — receives pulse feed for world-map backlog"
+    },
+    {
+      "repo": "bsgusa/bala-voice",
+      "localPath": "~/bala-voice",
+      "branch": "main",
+      "entity": "balamonis-llc",
+      "role": "Public engagement — receives pulse signal suggestions as issues"
+    },
+    {
+      "repo": "bsgusa/bala-weave",
+      "localPath": "~/bala-weave",
+      "branch": "main",
+      "entity": "balamonis-llc",
+      "role": "Collab — receives trending-signal-labeled contributions"
+    },
+    {
+      "repo": "bsgusa/bala-archives",
+      "localPath": "~/bala-archives",
+      "branch": "main",
+      "entity": "balamonis-llc",
+      "role": "Identity — references pulse in portfolio where trending work shipped"
+    },
+    {
+      "repo": "bsgusa/command-center-bala",
+      "localPath": "~/Command_Center_Bala_Repo",
+      "branch": "main",
+      "entity": "balamonis-llc",
+      "role": "Nerve center — receives ops-relevant signals"
+    },
+    {
+      "repo": "bsgusa/balamonis_group_main",
+      "localPath": "~/Balamonis_Group_Main_Repo",
+      "branch": "main",
+      "entity": "balamonis-llc",
+      "role": "Shared core — receives platform-relevant signals"
+    },
+    {
+      "repo": "bsgusa/balamonis-media",
+      "localPath": "~/Balamonis_Media_Repo",
+      "branch": "main",
+      "entity": "balamonis-llc",
+      "role": "Media studio — receives creative-format signals"
+    },
+    {
+      "repo": "bsgusa/AI-Job-Automation",
+      "localPath": "~/AI-Job-Automation",
+      "branch": "main",
+      "entity": "lexora-ai-llc",
+      "role": "Lexora product — receives career/legal-automation signals"
+    }
+  ]
+}

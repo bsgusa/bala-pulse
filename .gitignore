@@ -1,0 +1,17 @@
+# Balamonis new world — bala-pulse
+.DS_Store
+.env
+.env.local
+.env.*.local
+node_modules/
+dist/
+build/
+.next/
+out/
+*.log
+reports/*.jsonl
+reports/*.tmp
+.vscode/
+.idea/
+*.swp
+coverage/
