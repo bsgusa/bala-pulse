@@ -22,7 +22,7 @@ It is not a content farm. It is an intelligence layer: signal → score → back
 
 - **Scans** trending sources on a schedule (daily pulse, weekly brief).
 - **Scores** each signal: impact × urgency × effort — the same scoring your backlog uses.
-- **Maps** signals to repos and ventures: which signal matters to `AI-Job-Automation`, which to `balamonis-media`, which to `command-center-bala`.
+- **Maps** signals to repos and ventures: which signal matters to `company-lexora-legal` or `company-lexora-jobs`, which to `balamonis-media`, which to `command-center-bala`.
 - **Writes** a weekly trend brief into `reports/YYYY-MM-DD-trend-brief.md`.
 - **Feeds** scored items into each repo's `backlog/priorities.md` as `[NEXT]` or `[LATER]` candidates.
 
@@ -59,7 +59,7 @@ bala-pulse  (trending intelligence)
     │
     ├─→ scores signals
     ├─→ feeds bala-nexus backlog
-    ├─→ feeds venture backlogs (AI-Job-Automation, command-center-bala, etc.)
+    ├─→ feeds venture backlogs (company-lexora-legal, company-lexora-jobs, command-center-bala, etc.)
     └─→ writes weekly brief to reports/
 ```
 

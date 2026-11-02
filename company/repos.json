@@ -60,11 +60,18 @@
       "role": "Media studio — receives creative-format signals"
     },
     {
-      "repo": "bsgusa/AI-Job-Automation",
+      "repo": "bsgusa/company-lexora-legal",
       "localPath": "~/AI-Job-Automation",
       "branch": "main",
       "entity": "lexora-ai-llc",
-      "role": "Lexora product — receives career/legal-automation signals"
+      "role": "Lexora legal — receives legal-automation signals"
+    },
+    {
+      "repo": "bsgusa/company-lexora-jobs",
+      "localPath": "~/company-lexoraai",
+      "branch": "main",
+      "entity": "lexora-ai-llc",
+      "role": "Lexora jobs — receives career-platform signals"
     }
   ]
 }

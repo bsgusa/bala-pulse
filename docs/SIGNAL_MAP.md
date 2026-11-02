@@ -23,8 +23,8 @@ All scores are recommendations. A human decides what enters a backlog.
 | AI agent framework | New autonomous agent library | `bala-pulse`, `command-center-bala` | Could power auto-coder |
 | Deployment platform | New serverless/edge host | `balamonis_group_main`, `command-center-bala` | Infra candidate |
 | Creative format | New short-form video AI | `balamonis-media` | Studio product surface |
-| Legal automation | New contract-review AI | `AI-Job-Automation` | Lexora product surface |
-| Career automation | New job-apply agent | `AI-Job-Automation` | Careers pillar |
+| Legal automation | New contract-review AI | `company-lexora-legal` | Lexora product surface (lexoraai.space) |
+| Career automation | New job-apply agent | `company-lexora-jobs` | Careers pillar (lexoraai.org) |
 | Public engagement | New issue/discussion pattern | `bala-voice` | Engagement surface |
 | Contribution model | New PR/review workflow | `bala-weave` | Collab tissue |
 
